@@ -1,0 +1,3 @@
+bin/fill
+obj/rust
+obj/*.o
