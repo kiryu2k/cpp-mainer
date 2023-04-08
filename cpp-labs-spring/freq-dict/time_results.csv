@@ -1,9 +1,0 @@
-lang,elapsed-time(sec),method
-php,0.432,brute forse counting method
-php,0.232,array_count_values function
-java,0.827,containsKey & put & get combo
-java,0.591,put & getOrDefault combo
-java,0.686,merge method
-cpp,0.403,std::unordered_map
-cpp,0.218,robin_hood::unordered_flat_map
-cpp,0.169,absl::flat_hash_map
