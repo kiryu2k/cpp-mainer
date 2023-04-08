@@ -1,0 +1,4 @@
+bin/pascal-from-c
+obj/*.o
+obj/*.ppu
+obj/*.s

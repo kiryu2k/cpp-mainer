@@ -1,0 +1,7 @@
+[package]
+name = "fill"
+version = "1.0.0"
+
+[lib]
+name = "fill"
+crate-type = ["staticlib"]
