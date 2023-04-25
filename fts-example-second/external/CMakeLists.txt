@@ -1,0 +1,7 @@
+add_subdirectory(cli11)
+add_subdirectory(fmtlib)
+add_subdirectory(googletest)
+add_subdirectory(nlohmann_json)
+add_subdirectory(picosha2)
+add_subdirectory(rapidcsv)
+add_subdirectory(replxx)
